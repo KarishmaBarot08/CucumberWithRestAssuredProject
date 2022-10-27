@@ -1,0 +1,170 @@
+2022-10-27 00:05:41 INFO  API:45 - Longitude is: -0.13
+2022-10-27 00:05:41 INFO  API:47 - Latitude is: 51.51
+2022-10-27 00:05:41 INFO  API:49 - Description is: light intensity drizzle
+2022-10-27 00:05:41 INFO  API:51 - Pressure is: 1012
+2022-10-27 00:05:41 INFO  API:53 - Country is: GB
+2022-10-27 00:05:41 INFO  API:55 - Country is: GB
+2022-10-27 00:05:42 INFO  API:45 - Longitude is: -0.13
+2022-10-27 00:05:42 INFO  API:47 - Latitude is: 51.51
+2022-10-27 00:05:42 INFO  API:49 - Description is: light intensity drizzle
+2022-10-27 00:05:42 INFO  API:51 - Pressure is: 1012
+2022-10-27 00:05:42 INFO  API:53 - Country is: GB
+2022-10-27 00:05:42 INFO  API:55 - Country is: GB
+2022-10-27 00:05:43 INFO  API:45 - Longitude is: 145.77
+2022-10-27 00:05:43 INFO  API:47 - Latitude is: -16.92
+2022-10-27 00:05:43 INFO  API:49 - Description is: scattered clouds
+2022-10-27 00:05:43 INFO  API:51 - Pressure is: 1007
+2022-10-27 00:05:43 INFO  API:53 - Country is: AU
+2022-10-27 00:05:43 INFO  API:55 - Country is: AU
+2022-10-27 00:05:44 INFO  API:45 - Longitude is: 139.01
+2022-10-27 00:05:44 INFO  API:47 - Latitude is: 35.02
+2022-10-27 00:05:44 INFO  API:49 - Description is: clear sky
+2022-10-27 00:05:44 INFO  API:51 - Pressure is: 1013
+2022-10-27 00:05:44 INFO  API:53 - Country is: JP
+2022-10-27 00:05:44 INFO  API:55 - Country is: JP
+2022-10-27 00:05:45 INFO  API:45 - Longitude is: -122.09
+2022-10-27 00:05:45 INFO  API:47 - Latitude is: 37.39
+2022-10-27 00:05:45 INFO  API:49 - Description is: light rain
+2022-10-27 00:05:45 INFO  API:51 - Pressure is: 1017
+2022-10-27 00:05:45 INFO  API:53 - Country is: US
+2022-10-27 00:05:45 INFO  API:55 - Country is: US
+2022-10-27 00:07:00 INFO  API:44 - !!!PRINTING DATA!!!
+2022-10-27 00:07:00 INFO  API:46 - Longitude is: -0.13
+2022-10-27 00:07:00 INFO  API:48 - Latitude is: 51.51
+2022-10-27 00:07:00 INFO  API:50 - Description is: light intensity drizzle
+2022-10-27 00:07:00 INFO  API:52 - Pressure is: 1012
+2022-10-27 00:07:00 INFO  API:54 - Country is: GB
+2022-10-27 00:07:00 INFO  API:56 - Country is: GB
+2022-10-27 00:07:01 INFO  API:44 - !!!PRINTING DATA!!!
+2022-10-27 00:07:01 INFO  API:46 - Longitude is: -0.13
+2022-10-27 00:07:01 INFO  API:48 - Latitude is: 51.51
+2022-10-27 00:07:01 INFO  API:50 - Description is: light intensity drizzle
+2022-10-27 00:07:01 INFO  API:52 - Pressure is: 1012
+2022-10-27 00:07:01 INFO  API:54 - Country is: GB
+2022-10-27 00:07:01 INFO  API:56 - Country is: GB
+2022-10-27 00:07:02 INFO  API:44 - !!!PRINTING DATA!!!
+2022-10-27 00:07:02 INFO  API:46 - Longitude is: 145.77
+2022-10-27 00:07:02 INFO  API:48 - Latitude is: -16.92
+2022-10-27 00:07:02 INFO  API:50 - Description is: scattered clouds
+2022-10-27 00:07:02 INFO  API:52 - Pressure is: 1007
+2022-10-27 00:07:02 INFO  API:54 - Country is: AU
+2022-10-27 00:07:02 INFO  API:56 - Country is: AU
+2022-10-27 00:07:03 INFO  API:44 - !!!PRINTING DATA!!!
+2022-10-27 00:07:03 INFO  API:46 - Longitude is: 139.01
+2022-10-27 00:07:03 INFO  API:48 - Latitude is: 35.02
+2022-10-27 00:07:03 INFO  API:50 - Description is: clear sky
+2022-10-27 00:07:03 INFO  API:52 - Pressure is: 1013
+2022-10-27 00:07:03 INFO  API:54 - Country is: JP
+2022-10-27 00:07:03 INFO  API:56 - Country is: JP
+2022-10-27 00:07:04 INFO  API:44 - !!!PRINTING DATA!!!
+2022-10-27 00:07:04 INFO  API:46 - Longitude is: -122.09
+2022-10-27 00:07:04 INFO  API:48 - Latitude is: 37.39
+2022-10-27 00:07:04 INFO  API:50 - Description is: light rain
+2022-10-27 00:07:04 INFO  API:52 - Pressure is: 1017
+2022-10-27 00:07:04 INFO  API:54 - Country is: US
+2022-10-27 00:07:04 INFO  API:56 - Country is: US
+2022-10-27 00:10:51 INFO  API:44 - !!!PRINTING DATA!!!
+2022-10-27 00:10:51 INFO  API:46 - Longitude is: -0.13
+2022-10-27 00:10:51 INFO  API:48 - Latitude is: 51.51
+2022-10-27 00:10:51 INFO  API:50 - Description is: light intensity drizzle
+2022-10-27 00:10:51 INFO  API:52 - Pressure is: 1012
+2022-10-27 00:10:51 INFO  API:54 - Country is: GB
+2022-10-27 00:10:51 INFO  API:56 - Name is: London
+2022-10-27 00:10:52 INFO  API:44 - !!!PRINTING DATA!!!
+2022-10-27 00:10:52 INFO  API:46 - Longitude is: -0.13
+2022-10-27 00:10:52 INFO  API:48 - Latitude is: 51.51
+2022-10-27 00:10:52 INFO  API:50 - Description is: light intensity drizzle
+2022-10-27 00:10:52 INFO  API:52 - Pressure is: 1012
+2022-10-27 00:10:52 INFO  API:54 - Country is: GB
+2022-10-27 00:10:52 INFO  API:56 - Name is: London
+2022-10-27 00:10:53 INFO  API:44 - !!!PRINTING DATA!!!
+2022-10-27 00:10:53 INFO  API:46 - Longitude is: 145.77
+2022-10-27 00:10:53 INFO  API:48 - Latitude is: -16.92
+2022-10-27 00:10:53 INFO  API:50 - Description is: scattered clouds
+2022-10-27 00:10:53 INFO  API:52 - Pressure is: 1007
+2022-10-27 00:10:53 INFO  API:54 - Country is: AU
+2022-10-27 00:10:53 INFO  API:56 - Name is: Cairns
+2022-10-27 00:10:54 INFO  API:44 - !!!PRINTING DATA!!!
+2022-10-27 00:10:54 INFO  API:46 - Longitude is: 139.01
+2022-10-27 00:10:54 INFO  API:48 - Latitude is: 35.02
+2022-10-27 00:10:54 INFO  API:50 - Description is: clear sky
+2022-10-27 00:10:54 INFO  API:52 - Pressure is: 1013
+2022-10-27 00:10:54 INFO  API:54 - Country is: JP
+2022-10-27 00:10:54 INFO  API:56 - Name is: Tawarano
+2022-10-27 00:10:55 INFO  API:44 - !!!PRINTING DATA!!!
+2022-10-27 00:10:55 INFO  API:46 - Longitude is: -122.09
+2022-10-27 00:10:55 INFO  API:48 - Latitude is: 37.39
+2022-10-27 00:10:55 INFO  API:50 - Description is: light rain
+2022-10-27 00:10:55 INFO  API:52 - Pressure is: 1017
+2022-10-27 00:10:55 INFO  API:54 - Country is: US
+2022-10-27 00:10:55 INFO  API:56 - Name is: Mountain View
+2022-10-27 00:19:53 INFO  API:44 - !!!PRINTING DATA!!!
+2022-10-27 00:19:53 INFO  API:46 - Longitude is: -0.13
+2022-10-27 00:19:53 INFO  API:48 - Latitude is: 51.51
+2022-10-27 00:19:53 INFO  API:50 - Description is: light intensity drizzle
+2022-10-27 00:19:53 INFO  API:52 - Pressure is: 1012
+2022-10-27 00:19:53 INFO  API:54 - Country is: GB
+2022-10-27 00:19:53 INFO  API:56 - Name is: London
+2022-10-27 00:19:54 INFO  API:44 - !!!PRINTING DATA!!!
+2022-10-27 00:19:54 INFO  API:46 - Longitude is: -0.13
+2022-10-27 00:19:54 INFO  API:48 - Latitude is: 51.51
+2022-10-27 00:19:54 INFO  API:50 - Description is: light intensity drizzle
+2022-10-27 00:19:54 INFO  API:52 - Pressure is: 1012
+2022-10-27 00:19:54 INFO  API:54 - Country is: GB
+2022-10-27 00:19:54 INFO  API:56 - Name is: London
+2022-10-27 00:19:55 INFO  API:44 - !!!PRINTING DATA!!!
+2022-10-27 00:19:55 INFO  API:46 - Longitude is: 145.77
+2022-10-27 00:19:55 INFO  API:48 - Latitude is: -16.92
+2022-10-27 00:19:55 INFO  API:50 - Description is: scattered clouds
+2022-10-27 00:19:55 INFO  API:52 - Pressure is: 1007
+2022-10-27 00:19:55 INFO  API:54 - Country is: AU
+2022-10-27 00:19:55 INFO  API:56 - Name is: Cairns
+2022-10-27 00:19:56 INFO  API:44 - !!!PRINTING DATA!!!
+2022-10-27 00:19:56 INFO  API:46 - Longitude is: 139.01
+2022-10-27 00:19:56 INFO  API:48 - Latitude is: 35.02
+2022-10-27 00:19:56 INFO  API:50 - Description is: clear sky
+2022-10-27 00:19:56 INFO  API:52 - Pressure is: 1013
+2022-10-27 00:19:56 INFO  API:54 - Country is: JP
+2022-10-27 00:19:56 INFO  API:56 - Name is: Tawarano
+2022-10-27 00:19:57 INFO  API:44 - !!!PRINTING DATA!!!
+2022-10-27 00:19:57 INFO  API:46 - Longitude is: -122.09
+2022-10-27 00:19:57 INFO  API:48 - Latitude is: 37.39
+2022-10-27 00:19:57 INFO  API:50 - Description is: light rain
+2022-10-27 00:19:57 INFO  API:52 - Pressure is: 1017
+2022-10-27 00:19:57 INFO  API:54 - Country is: US
+2022-10-27 00:19:57 INFO  API:56 - Name is: Mountain View
+2022-10-27 00:33:42 INFO  API:44 - !!!PRINTING DATA!!!
+2022-10-27 00:33:42 INFO  API:46 - Longitude is: -0.13
+2022-10-27 00:33:42 INFO  API:48 - Latitude is: 51.51
+2022-10-27 00:33:42 INFO  API:50 - Description is: light intensity drizzle
+2022-10-27 00:33:42 INFO  API:52 - Pressure is: 1012
+2022-10-27 00:33:42 INFO  API:54 - Country is: GB
+2022-10-27 00:33:42 INFO  API:56 - Name is: London
+2022-10-27 00:33:43 INFO  API:44 - !!!PRINTING DATA!!!
+2022-10-27 00:33:43 INFO  API:46 - Longitude is: -0.13
+2022-10-27 00:33:43 INFO  API:48 - Latitude is: 51.51
+2022-10-27 00:33:43 INFO  API:50 - Description is: light intensity drizzle
+2022-10-27 00:33:43 INFO  API:52 - Pressure is: 1012
+2022-10-27 00:33:43 INFO  API:54 - Country is: GB
+2022-10-27 00:33:43 INFO  API:56 - Name is: London
+2022-10-27 00:33:44 INFO  API:44 - !!!PRINTING DATA!!!
+2022-10-27 00:33:44 INFO  API:46 - Longitude is: 145.77
+2022-10-27 00:33:44 INFO  API:48 - Latitude is: -16.92
+2022-10-27 00:33:44 INFO  API:50 - Description is: scattered clouds
+2022-10-27 00:33:44 INFO  API:52 - Pressure is: 1007
+2022-10-27 00:33:44 INFO  API:54 - Country is: AU
+2022-10-27 00:33:44 INFO  API:56 - Name is: Cairns
+2022-10-27 00:33:44 INFO  API:44 - !!!PRINTING DATA!!!
+2022-10-27 00:33:44 INFO  API:46 - Longitude is: 139.01
+2022-10-27 00:33:44 INFO  API:48 - Latitude is: 35.02
+2022-10-27 00:33:44 INFO  API:50 - Description is: clear sky
+2022-10-27 00:33:44 INFO  API:52 - Pressure is: 1013
+2022-10-27 00:33:44 INFO  API:54 - Country is: JP
+2022-10-27 00:33:44 INFO  API:56 - Name is: Tawarano
+2022-10-27 00:33:45 INFO  API:44 - !!!PRINTING DATA!!!
+2022-10-27 00:33:45 INFO  API:46 - Longitude is: -122.09
+2022-10-27 00:33:45 INFO  API:48 - Latitude is: 37.39
+2022-10-27 00:33:45 INFO  API:50 - Description is: light rain
+2022-10-27 00:33:45 INFO  API:52 - Pressure is: 1017
+2022-10-27 00:33:45 INFO  API:54 - Country is: US
+2022-10-27 00:33:45 INFO  API:56 - Name is: Mountain View
